@@ -1,0 +1,7 @@
+D:\Projects\External\CustomerManagement\Services\bin\Services.dll.config
+D:\Projects\External\CustomerManagement\Services\bin\Services.dll
+D:\Projects\External\CustomerManagement\Services\bin\Services.pdb
+D:\Projects\External\CustomerManagement\Services\obj\Debug\Services.csprojAssemblyReference.cache
+D:\Projects\External\CustomerManagement\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\Projects\External\CustomerManagement\Services\obj\Debug\Services.dll
+D:\Projects\External\CustomerManagement\Services\obj\Debug\Services.pdb

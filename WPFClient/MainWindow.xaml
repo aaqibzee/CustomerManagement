@@ -1,0 +1,17 @@
+﻿<Window x:Class="WPFClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFClient"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="CustomerManagementLabel" Content="Customer Management System" HorizontalAlignment="Left" Margin="308,34,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="SearchUserBtn" Content="Search User" HorizontalAlignment="Left" Margin="72,94,0,0" VerticalAlignment="Top" Width="113" Height="30" Click="SearchUserBtn_Click"/>
+        <Button x:Name="CreateUserBtn" Content="Create User" HorizontalAlignment="Left" Margin="72,241,0,0" VerticalAlignment="Top" Width="113" Height="30" Click="CreateUserBtn_Click"/>
+        <Button x:Name="ListAllUsersBtn" Content="List All Users" HorizontalAlignment="Left" Margin="72,171,0,0" VerticalAlignment="Top" Width="113" Height="30" Click="ListAllUsersBtn_Click"/>
+        <ComboBox HorizontalAlignment="Left" Margin="960,299,-288,0" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,13 @@
+D:\Projects\External\Moved Customer Management\CustomerManagement\Services\bin\Services.dll.config
+D:\Projects\External\Moved Customer Management\CustomerManagement\Services\bin\Services.dll
+D:\Projects\External\Moved Customer Management\CustomerManagement\Services\bin\Services.pdb
+D:\Projects\External\Moved Customer Management\CustomerManagement\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\Projects\External\Moved Customer Management\CustomerManagement\Services\obj\Debug\Services.dll
+D:\Projects\External\Moved Customer Management\CustomerManagement\Services\obj\Debug\Services.pdb
+D:\Projects\External\Scripts\Project Submission By Aaqib Zafar For C# Developer Post\CustomerManagement\Services\bin\Services.dll.config
+D:\Projects\External\Scripts\Project Submission By Aaqib Zafar For C# Developer Post\CustomerManagement\Services\bin\Services.dll
+D:\Projects\External\Scripts\Project Submission By Aaqib Zafar For C# Developer Post\CustomerManagement\Services\bin\Services.pdb
+D:\Projects\External\Scripts\Project Submission By Aaqib Zafar For C# Developer Post\CustomerManagement\Services\obj\Debug\Services.csprojAssemblyReference.cache
+D:\Projects\External\Scripts\Project Submission By Aaqib Zafar For C# Developer Post\CustomerManagement\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\Projects\External\Scripts\Project Submission By Aaqib Zafar For C# Developer Post\CustomerManagement\Services\obj\Debug\Services.dll
+D:\Projects\External\Scripts\Project Submission By Aaqib Zafar For C# Developer Post\CustomerManagement\Services\obj\Debug\Services.pdb

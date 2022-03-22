@@ -1,0 +1,23 @@
+﻿<Window x:Class="WPFClient.ListUsersWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFClient"
+        mc:Ignorable="d"
+        Title="ListUsersWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="ListUsersLabel" Content="All Users" HorizontalAlignment="Left" Margin="255,44,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,1" Height="42" Width="266" FontSize="20">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform X="102"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <DataGrid HorizontalAlignment="Left" Height="220" Margin="0,86,0,0" VerticalAlignment="Top" Width="792"/>
+
+    </Grid>
+</Window>
